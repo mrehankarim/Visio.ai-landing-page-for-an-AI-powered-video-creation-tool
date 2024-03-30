@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* overflow-x: hidden !important; */
+}
+.hero {
+  height: 50vh;
+  background-color: black !important;
+}
+.hero h2 {
+  font-size: 100px !important;
+}
