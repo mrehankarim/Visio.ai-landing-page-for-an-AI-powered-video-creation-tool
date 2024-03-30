@@ -1,3 +1,6 @@
+## Project Summary:
+Visio.ai is dummy project that I developed to polish my development skills. It used React Js and tailwind css. You can visit the live project here: ( https://tinyurl.com/2fk5y338 )
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
